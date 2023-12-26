@@ -7,7 +7,7 @@
 * Working :-
      * Step 1:- Select the data-set
      * Step 2:- Calculate Entropy and Information Gain for each attributes
-      By using following formula
+     * By using following formula
 i. Entropy = Entropy(s)= -P(yes)log2 P(yes)- P(no) log2 P(no)
    Where,
    S = Total number of samples
