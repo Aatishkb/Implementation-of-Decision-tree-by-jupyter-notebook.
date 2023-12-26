@@ -9,9 +9,9 @@
      * Step 2:- Calculate Entropy and Information Gain for each attributes
       By using following formula
 i. Entropy = Entropy(s)= -P(yes)log2 P(yes)- P(no) log2 P(no)
-Where,
-S = Total number of samples
-P(yes) = probability of yes
-P(no) = probability of no
+   Where,
+   S = Total number of samples
+   P(yes) = probability of yes
+   P(no) = probability of no
 ii. Information Gain = Entropy(S)- [(Weighted Avg) *Entropy(each feature)  
      * Step 3:- Select highest information Gain for root node
