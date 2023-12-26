@@ -13,6 +13,5 @@
                             S = Total number of samples
                             P(yes) = probability of yes
                             P(no) = probability of no
-
-                 ii. Information Gain = Entropy(S)- [(Weighted Avg) *Entropy(each feature)  
+                  ii. Information Gain = Entropy(S)- [(Weighted Avg) *Entropy(each feature)  
      * Step 3:- Select highest information Gain for root node
