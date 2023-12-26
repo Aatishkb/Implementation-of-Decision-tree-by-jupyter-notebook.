@@ -5,5 +5,5 @@
          structure where internal node is called decision node and leaf node is called output node.
 
 * Working :-
-   * Step 1:- Select the data set
-   * Step 2:- 
+     * Step 1:- Select the data set
+     * Step 2:- 
