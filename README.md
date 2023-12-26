@@ -17,3 +17,5 @@
      * ii. Information Gain = Entropy(S)- [(Weighted Avg) *Entropy(each feature)
         
      * Step 3:- Select highest information Gain for root node
+ 
+     * Step 4:- Finally construct a tree.
